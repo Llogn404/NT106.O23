@@ -1,0 +1,111 @@
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Menu_Lab_3.resources
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.sourcelink.json
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+D:\KY4\Network\Lab\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Menu_Lab_3.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_1.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.sourcelink.json
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Client.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Server.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+E:\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+E:\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+E:\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+E:\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Client.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Server.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Menu_Lab_3.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Client.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Server.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_1.resources
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.sourcelink.json
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+E:\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Client.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Server.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Menu_Lab_3.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Client.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task1_Server.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task2.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_1.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.sourcelink.json
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Client.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab03.Bai03_Server.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task2.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6_Client.resources
+D:\KY4\Network\Lab\Lab_3\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6_Server.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task5.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task5_1.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6_Client.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.Task_6_Server.resources
+D:\HK2\Lập trình mạng căn bản\22520608-22520433-22520412\Lab3\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.Up2Date
