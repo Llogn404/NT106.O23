@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|d:\\hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\lab3\\lab3\\task_6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task_6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|d:\\hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\lab3\\lab3\\task5_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task5_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\lab3\\task5_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task5_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\lab3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\lab3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B319F5-D8BB-4A31-8216-E1A050FACC8D}|Lab3\\Lab3.csproj|solutionrelative:lab3\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_6_Client.cs [Design]",
+              "DocumentMoniker": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task_6_Client.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task_6_Client.cs",
+              "ToolTip": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task_6_Client.cs [Design]",
+              "RelativeToolTip": "Lab3\\Task_6_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:26:57.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5.cs [Design]",
+              "DocumentMoniker": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task5.cs",
+              "ToolTip": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5.cs [Design]",
+              "RelativeToolTip": "Lab3\\Task5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-29T07:43:29.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task5.cs",
+              "ToolTip": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5.cs",
+              "RelativeToolTip": "Lab3\\Task5.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAgwDIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-29T07:57:20.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task5_1.cs [Design]",
+              "DocumentMoniker": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5_1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task5_1.cs",
+              "ToolTip": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5_1.cs [Design]",
+              "RelativeToolTip": "Lab3\\Task5_1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:27:53.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task5_1.cs",
+              "DocumentMoniker": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5_1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Task5_1.cs",
+              "ToolTip": "D:\\HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\22520608-22520433-22520412\\Lab3\\Lab3\\Task5_1.cs",
+              "RelativeToolTip": "Lab3\\Task5_1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:31:30.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
